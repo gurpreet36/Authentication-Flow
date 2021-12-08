@@ -1,0 +1,475 @@
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/appsettings.json
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.exe
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.deps.json
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.runtimeconfig.json
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.runtimeconfig.dev.json
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/ref/AuthenticationAPI.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.pdb
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/AutoMapper.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/FluentValidation.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/FluentValidation.AspNetCore.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Humanizer.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Npgsql.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.AssemblyReference.cache
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.AssemblyInfoInputs.cache
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.AssemblyInfo.cs
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.CoreCompileInputs.cache
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/staticwebassets/AuthenticationAPI.StaticWebAssets.Manifest.cache
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/staticwebassets/AuthenticationAPI.StaticWebAssets.xml
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/scopedcss/bundle/AuthenticationAPI.styles.css
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.RazorTargetAssemblyInfo.cache
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/ref/AuthenticationAPI.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.pdb
+C:/Users/gurpr/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.genruntimeconfig.cache
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/appsettings.json
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.exe
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.deps.json
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.runtimeconfig.json
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.runtimeconfig.dev.json
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.dll
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/ref/AuthenticationAPI.dll
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.pdb
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/AutoMapper.dll
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/FluentValidation.dll
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/FluentValidation.AspNetCore.dll
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Humanizer.dll
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Npgsql.dll
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.AssemblyReference.cache
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.AssemblyInfoInputs.cache
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.AssemblyInfo.cs
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.CoreCompileInputs.cache
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/staticwebassets/AuthenticationAPI.StaticWebAssets.Manifest.cache
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/staticwebassets/AuthenticationAPI.StaticWebAssets.xml
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/scopedcss/bundle/AuthenticationAPI.styles.css
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.RazorTargetAssemblyInfo.cache
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.CopyComplete
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.dll
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/ref/AuthenticationAPI.dll
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.pdb
+C:/Users/hp/Desktop/Authentication Flow Project/Webapi/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.genruntimeconfig.cache
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/appsettings.json
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.exe
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.deps.json
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.runtimeconfig.json
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.runtimeconfig.dev.json
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/ref/AuthenticationAPI.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.pdb
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/AutoMapper.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/FluentValidation.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/FluentValidation.AspNetCore.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/Humanizer.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/Npgsql.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.AssemblyReference.cache
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.AssemblyInfoInputs.cache
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.AssemblyInfo.cs
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.CoreCompileInputs.cache
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/obj/Debug/net5.0/staticwebassets/AuthenticationAPI.StaticWebAssets.Manifest.cache
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/obj/Debug/net5.0/staticwebassets/AuthenticationAPI.StaticWebAssets.xml
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/obj/Debug/net5.0/scopedcss/bundle/AuthenticationAPI.styles.css
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.RazorTargetAssemblyInfo.cache
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/obj/Debug/net5.0/ref/AuthenticationAPI.dll
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.pdb
+C:/Users/gurpr/Desktop/Authentication Flow Project/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.genruntimeconfig.cache
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/appsettings.json
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.exe
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.deps.json
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.runtimeconfig.json
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.runtimeconfig.dev.json
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.dll
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/ref/AuthenticationAPI.dll
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.pdb
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/AutoMapper.dll
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/FluentValidation.dll
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/FluentValidation.AspNetCore.dll
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/Humanizer.dll
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/Npgsql.dll
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.AssemblyReference.cache
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.AssemblyInfoInputs.cache
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.AssemblyInfo.cs
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.CoreCompileInputs.cache
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/obj/Debug/net5.0/staticwebassets/AuthenticationAPI.StaticWebAssets.Manifest.cache
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/obj/Debug/net5.0/staticwebassets/AuthenticationAPI.StaticWebAssets.xml
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/obj/Debug/net5.0/scopedcss/bundle/AuthenticationAPI.styles.css
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.RazorTargetAssemblyInfo.cache
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.CopyComplete
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.dll
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/obj/Debug/net5.0/ref/AuthenticationAPI.dll
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.pdb
+C:/Users/divya.rashmi/OneDrive - Taazaa Tech Pvt Ltd/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.genruntimeconfig.cache
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/appsettings.json
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.exe
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.deps.json
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.runtimeconfig.json
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.runtimeconfig.dev.json
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.dll
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/ref/AuthenticationAPI.dll
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.pdb
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/AutoMapper.dll
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/FluentValidation.dll
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/FluentValidation.AspNetCore.dll
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/Humanizer.dll
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/Npgsql.dll
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/gurpr/Desktop/AuthenticationAPI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/gurpr/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.AssemblyReference.cache
+C:/Users/gurpr/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/gurpr/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.AssemblyInfoInputs.cache
+C:/Users/gurpr/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.AssemblyInfo.cs
+C:/Users/gurpr/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.CoreCompileInputs.cache
+C:/Users/gurpr/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/gurpr/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/gurpr/Desktop/AuthenticationAPI/obj/Debug/net5.0/staticwebassets/AuthenticationAPI.StaticWebAssets.Manifest.cache
+C:/Users/gurpr/Desktop/AuthenticationAPI/obj/Debug/net5.0/staticwebassets/AuthenticationAPI.StaticWebAssets.xml
+C:/Users/gurpr/Desktop/AuthenticationAPI/obj/Debug/net5.0/scopedcss/bundle/AuthenticationAPI.styles.css
+C:/Users/gurpr/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.RazorTargetAssemblyInfo.cache
+C:/Users/gurpr/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.dll
+C:/Users/gurpr/Desktop/AuthenticationAPI/obj/Debug/net5.0/ref/AuthenticationAPI.dll
+C:/Users/gurpr/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.pdb
+C:/Users/gurpr/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.genruntimeconfig.cache
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/appsettings.json
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.exe
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.deps.json
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.runtimeconfig.json
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.runtimeconfig.dev.json
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/ref/AuthenticationAPI.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.pdb
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/AutoMapper.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/FluentValidation.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/FluentValidation.AspNetCore.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/Humanizer.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/Npgsql.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/hp/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.AssemblyReference.cache
+C:/Users/hp/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/hp/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.AssemblyInfoInputs.cache
+C:/Users/hp/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.AssemblyInfo.cs
+C:/Users/hp/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.CoreCompileInputs.cache
+C:/Users/hp/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/hp/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/hp/Desktop/AuthenticationAPI/obj/Debug/net5.0/staticwebassets/AuthenticationAPI.StaticWebAssets.Manifest.cache
+C:/Users/hp/Desktop/AuthenticationAPI/obj/Debug/net5.0/staticwebassets/AuthenticationAPI.StaticWebAssets.xml
+C:/Users/hp/Desktop/AuthenticationAPI/obj/Debug/net5.0/scopedcss/bundle/AuthenticationAPI.styles.css
+C:/Users/hp/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.RazorTargetAssemblyInfo.cache
+C:/Users/hp/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.CopyComplete
+C:/Users/hp/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.dll
+C:/Users/hp/Desktop/AuthenticationAPI/obj/Debug/net5.0/ref/AuthenticationAPI.dll
+C:/Users/hp/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.pdb
+C:/Users/hp/Desktop/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.genruntimeconfig.cache
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/hp/Desktop/AuthenticationAPI/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/appsettings.Development.json
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/appsettings.json
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.exe
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.deps.json
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.runtimeconfig.json
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.runtimeconfig.dev.json
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/ref/AuthenticationAPI.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/AuthenticationAPI.pdb
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/AutoMapper.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/Humanizer.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/Npgsql.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+E:/Angular/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.AssemblyReference.cache
+E:/Angular/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:/Angular/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.AssemblyInfoInputs.cache
+E:/Angular/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.AssemblyInfo.cs
+E:/Angular/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.CoreCompileInputs.cache
+E:/Angular/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.MvcApplicationPartsAssemblyInfo.cs
+E:/Angular/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.MvcApplicationPartsAssemblyInfo.cache
+E:/Angular/AuthenticationAPI/obj/Debug/net5.0/staticwebassets/AuthenticationAPI.StaticWebAssets.Manifest.cache
+E:/Angular/AuthenticationAPI/obj/Debug/net5.0/staticwebassets/AuthenticationAPI.StaticWebAssets.xml
+E:/Angular/AuthenticationAPI/obj/Debug/net5.0/scopedcss/bundle/AuthenticationAPI.styles.css
+E:/Angular/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.RazorTargetAssemblyInfo.cache
+E:/Angular/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.CopyComplete
+E:/Angular/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.dll
+E:/Angular/AuthenticationAPI/obj/Debug/net5.0/ref/AuthenticationAPI.dll
+E:/Angular/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.pdb
+E:/Angular/AuthenticationAPI/obj/Debug/net5.0/AuthenticationAPI.genruntimeconfig.cache
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/Microsoft.Owin.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/Owin.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/MailKit.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/MimeKit.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+E:/Angular/AuthenticationAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.Google.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/appsettings.Development.json
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/appsettings.json
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/AuthenticationAPI.exe
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/AuthenticationAPI.deps.json
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/AuthenticationAPI.runtimeconfig.json
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/AuthenticationAPI.runtimeconfig.dev.json
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/AuthenticationAPI.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/ref/AuthenticationAPI.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/AuthenticationAPI.pdb
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/AutoMapper.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/Humanizer.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/MailKit.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.Google.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/Microsoft.OpenApi.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/Microsoft.Owin.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/MimeKit.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/Npgsql.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/Owin.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+E:/Angular/AuthenticationAPIPurana/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+E:/Angular/AuthenticationAPIPurana/obj/Debug/net5.0/AuthenticationAPI.csproj.AssemblyReference.cache
+E:/Angular/AuthenticationAPIPurana/obj/Debug/net5.0/AuthenticationAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:/Angular/AuthenticationAPIPurana/obj/Debug/net5.0/AuthenticationAPI.AssemblyInfoInputs.cache
+E:/Angular/AuthenticationAPIPurana/obj/Debug/net5.0/AuthenticationAPI.AssemblyInfo.cs
+E:/Angular/AuthenticationAPIPurana/obj/Debug/net5.0/AuthenticationAPI.csproj.CoreCompileInputs.cache
+E:/Angular/AuthenticationAPIPurana/obj/Debug/net5.0/AuthenticationAPI.MvcApplicationPartsAssemblyInfo.cs
+E:/Angular/AuthenticationAPIPurana/obj/Debug/net5.0/AuthenticationAPI.MvcApplicationPartsAssemblyInfo.cache
+E:/Angular/AuthenticationAPIPurana/obj/Debug/net5.0/staticwebassets/AuthenticationAPI.StaticWebAssets.Manifest.cache
+E:/Angular/AuthenticationAPIPurana/obj/Debug/net5.0/scopedcss/bundle/AuthenticationAPI.styles.css
+E:/Angular/AuthenticationAPIPurana/obj/Debug/net5.0/AuthenticationAPI.RazorTargetAssemblyInfo.cache
+E:/Angular/AuthenticationAPIPurana/obj/Debug/net5.0/AuthenticationAPI.csproj.CopyComplete
+E:/Angular/AuthenticationAPIPurana/obj/Debug/net5.0/AuthenticationAPI.dll
+E:/Angular/AuthenticationAPIPurana/obj/Debug/net5.0/ref/AuthenticationAPI.dll
+E:/Angular/AuthenticationAPIPurana/obj/Debug/net5.0/AuthenticationAPI.pdb
+E:/Angular/AuthenticationAPIPurana/obj/Debug/net5.0/AuthenticationAPI.genruntimeconfig.cache
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/appsettings.Development.json
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/appsettings.json
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/AuthenticationAPI.exe
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/AuthenticationAPI.deps.json
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/AuthenticationAPI.runtimeconfig.json
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/AuthenticationAPI.runtimeconfig.dev.json
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/AuthenticationAPI.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/ref/AuthenticationAPI.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/AuthenticationAPI.pdb
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/AutoMapper.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/Humanizer.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/MailKit.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.Google.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.Owin.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/MimeKit.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/Npgsql.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/Owin.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.AssemblyReference.cache
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.AssemblyInfoInputs.cache
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.AssemblyInfo.cs
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.CoreCompileInputs.cache
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.MvcApplicationPartsAssemblyInfo.cs
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.MvcApplicationPartsAssemblyInfo.cache
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/obj/Debug/net5.0/staticwebassets/AuthenticationAPI.StaticWebAssets.Manifest.cache
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/obj/Debug/net5.0/staticwebassets/AuthenticationAPI.StaticWebAssets.xml
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/obj/Debug/net5.0/scopedcss/bundle/AuthenticationAPI.styles.css
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.RazorTargetAssemblyInfo.cache
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.CopyComplete
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/obj/Debug/net5.0/ref/AuthenticationAPI.dll
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.pdb
+G:/project/Authentication Flow_Project/API/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.genruntimeconfig.cache
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/appsettings.Development.json
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/appsettings.json
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/AuthenticationAPI
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/AuthenticationAPI.deps.json
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/AuthenticationAPI.runtimeconfig.json
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/AuthenticationAPI.runtimeconfig.dev.json
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/AuthenticationAPI.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/ref/AuthenticationAPI.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/AuthenticationAPI.pdb
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/AutoMapper.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/FluentValidation.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/FluentValidation.AspNetCore.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/FluentValidation.DependencyInjectionExtensions.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/Humanizer.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/MailKit.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.Google.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/Microsoft.Owin.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/MimeKit.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/Npgsql.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/Owin.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.AssemblyReference.cache
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.AssemblyInfoInputs.cache
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.AssemblyInfo.cs
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.CoreCompileInputs.cache
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.MvcApplicationPartsAssemblyInfo.cs
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.MvcApplicationPartsAssemblyInfo.cache
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/obj/Debug/net5.0/staticwebassets/AuthenticationAPI.StaticWebAssets.Manifest.cache
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/obj/Debug/net5.0/staticwebassets/AuthenticationAPI.StaticWebAssets.xml
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/obj/Debug/net5.0/scopedcss/bundle/AuthenticationAPI.styles.css
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.RazorTargetAssemblyInfo.cache
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.csproj.CopyComplete
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/obj/Debug/net5.0/ref/AuthenticationAPI.dll
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.pdb
+/home/gurpreetsingh/Desktop/Project/API/taazaainc-authentication.web.api-1f29796fd966/AuthenticationFlowAPI/obj/Debug/net5.0/AuthenticationAPI.genruntimeconfig.cache
